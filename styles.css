@@ -1,0 +1,43 @@
+h1 {
+    font-size: 100px;    
+    display: flex;
+    justify-content: center;
+}
+body, button {
+    background-color:  #31497d;
+}
+* {
+    margin:0;
+    color: #ffad33;
+}
+img {
+    width:200px;
+    height:200px;
+    margin-left:20px;
+    border-radius: 50px
+}
+div {
+    font-size: 50px
+}
+button {
+    width: 50px;
+    height:50px;
+    font-size: 30px;
+    font-weight: 900;
+    border: solid #ffad33 6px;
+    border-radius: 100px;
+    position:absolute;
+    right: 10px;
+    top: 10px;
+}
+.m {
+    margin-left: 25px;
+}
+li {
+    font-weight: 900;
+    text-decoration: none;
+    margin-left:0
+}
+li:hover {
+    text-decoration: underline;
+}
